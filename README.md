@@ -1,2 +1,2 @@
-# FoundationFSS
-High-Performance Few-Shot Segmentation with Foundation Models: An Empirical Study
+# High-Performance Few-Shot Segmentation with Foundation Models: An Empirical Study
+Please wait...
