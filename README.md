@@ -2,9 +2,10 @@
 
 [arxiv link](https://arxiv.org/pdf/2409.06305)
 
-The code and model weights will be uploaded within the next few days.
+The training and testing commands will be released within the next few days.
 
 ### To Do
 
-- [x] Code.
-- [ ] Weights.
+- [x] [Code](https://github.com/DUT-CSJ/FoundationFSS).
+- [x] [Weights](https://github.com/DUT-CSJ/FoundationFSS/releases/download/weights/model_weights.zip).
+- [ ] Training and testing commands
