@@ -8,6 +8,20 @@ The training and testing commands will be released within the next few days.
 
 Please follow [HSNet](https://github.com/juhongm999/hsnet?tab=readme-ov-file#preparing-few-shot-segmentation-datasets) to prepare few-shot segmentation datasets.
 
+### Training and Testing
+
+Training
+
+```
+python train.py --benchmark pascal/coco --logpath ./your_path --fold 0/1/2/3 --img_size 420
+```
+
+Testing
+
+```
+python test.py --benchmark pascal/coco --load ./your_path/best_model.pt --fold 0/1/2/3 --nshot 1/5 --img_size 420
+```
+
 ### To Do
 
 - [x] [Code](https://github.com/DUT-CSJ/FoundationFSS).
