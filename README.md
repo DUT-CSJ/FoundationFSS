@@ -25,6 +25,7 @@ python test.py --benchmark pascal/coco --load ./your_path/model.pt --fold 0/1/2/
 - [x] [Code](https://github.com/DUT-CSJ/FoundationFSS).
 - [x] [Weights](https://github.com/DUT-CSJ/FoundationFSS/releases/download/weights/model_weights.zip).
 - [x] [Training and testing commands](https://github.com/DUT-CSJ/FoundationFSS/blob/main/README.md#training-and-testing).
+- [ ] Requirments.
 
 ### References
 
